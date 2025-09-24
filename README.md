@@ -35,7 +35,7 @@ O programa:
 ## 🖥️ Exemplo de Execução
 ### Menu Principal
 ```
-=========== B.V. BANCO VAGABUNDO ===========
+=========== B.V. BANCO VANGUARDA ===========
 [1] VER SALDO
 [2] DEPOSITAR
 [3] SACAR
